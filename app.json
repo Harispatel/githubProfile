@@ -1,0 +1,5 @@
+{
+  "name": "GithubProfile",
+  "displayName": "GithubProfile",
+  "config": "metro.config.js"
+}
